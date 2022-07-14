@@ -1,0 +1,11 @@
+D:\С#\LifeSimulator\LifeSimulator\bin\Debug\LifeSimulator.exe.config
+D:\С#\LifeSimulator\LifeSimulator\bin\Debug\LifeSimulator.exe
+D:\С#\LifeSimulator\LifeSimulator\bin\Debug\LifeSimulator.pdb
+D:\С#\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.AssemblyReference.cache
+D:\С#\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.SuggestedBindingRedirects.cache
+D:\С#\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.Form1.resources
+D:\С#\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.Properties.Resources.resources
+D:\С#\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.GenerateResource.cache
+D:\С#\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.CoreCompileInputs.cache
+D:\С#\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.exe
+D:\С#\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.pdb
